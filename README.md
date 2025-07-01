@@ -1,6 +1,6 @@
 
-# **ChatGPT 中文版免费下载使用指南，无需翻墙【2025年4月更新】**
-> 更新日期：2025-04-25  
+# **ChatGPT 中文版免费下载使用指南，无需翻墙【2025年7月更新】**
+> 更新日期：2025-07-02  
 ---
 ChatGPT，由OpenAI开发的全球领先语言模型，以其强大的自然语言处理能力和广泛的应用场景深受用户喜爱。在国内，ChatGPT中文版（也称“聊天GPT”）因其便捷性和中文优化体验，成为许多用户的首选AI工具。本文将为您详细介绍如何在国内免费下载和使用ChatGPT中文版。
 
@@ -33,8 +33,8 @@ ChatGPT中文版因其卓越的功能和用户体验，吸引了大量国内用�
 推荐资源：  
 | 网站名称 | 功能支持 | 访问链接 |
 | --- | --- | --- |
-| **[一下AI](https://chat.yixiaai.com)** | 支持ChatGPT中文版、GPT-4o、Claude 3.7、Grok-3、联网查询等 | [点击访问](https://chat.yixiaai.com) |
-| **[蓝鲸AI](https://chat.chatgpt-chinese.com/)** | ChatGPT中文版、GPT-4o、Claude，界面简洁高效 | [点击访问](https://chat.chatgpt-chinese.com/) |
+| **[一下AI](https://xsimplechat.com)** | 支持ChatGPT中文版、GPT-4o、Claude 3.7、Gemini-2.5 Pro、Grok-3、联网查询等 | [点击访问](https://chat.yixiaai.com) |
+| **[蓝鲸AI](https://chat.lanjingai.org/)** | ChatGPT中文版、GPT-4o、Claude，界面简洁高效 | [点击访问](https://chat.chatgpt-chinese.com/) |
 | **[智惠聚合AI](https://deepseek-free.org/)** | ChatGPT中文版 & DeepSeek全功能解锁 | [点击访问](https://deepseek-free.org/) |
 
 **优点**：  
